@@ -6,4 +6,5 @@ Esta adaptación es parte de la tesis de maestría titulada `MÉTODOS DE APRENDI
 
 
 Datos de contacto:
-* viridiana.mendez@cimat.mx
+* Lic. Viridiana Itzel Méndez Vásquez
+* email: viridiana.mendez@cimat.mx
